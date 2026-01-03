@@ -7,7 +7,7 @@
 
 "TURTLES"
 "who","color","heading","xcor","ycor","shape","label","label-color","breed","hidden?","size","pen-size","pen-mode"
-"0","15","180","0","2.8421709430404007E-14","""circle""","4","9.9","{all-turtles}","false","8","1","""up"""
+"0","15","180","0","2.842170943040401E-14","""circle""","4","9.9","{all-turtles}","false","8","1","""up"""
 
 "PATCHES"
 "pxcor","pycor","pcolor","plabel","plabel-color"
