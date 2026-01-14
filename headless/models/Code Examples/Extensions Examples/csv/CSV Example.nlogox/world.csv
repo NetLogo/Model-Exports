@@ -3,7 +3,7 @@
 
 "GLOBALS"
 "min-pxcor","max-pxcor","min-pycor","max-pycor","perspective","subject","nextIndex","directed-links","ticks","target-file-path"
-"-16","16","-16","16","0","nobody","100","""NEITHER""","0","""C:\\Users\\isaac/turtles.csv"""
+"-16","16","-16","16","0","nobody","100","""NEITHER""","0",""""""
 
 "TURTLES"
 "who","color","heading","xcor","ycor","shape","label","label-color","breed","hidden?","size","pen-size","pen-mode"
