@@ -3,7 +3,7 @@
 
 "GLOBALS"
 "min-pxcor","max-pxcor","min-pycor","max-pycor","perspective","subject","nextIndex","directed-links","ticks","angle-precision","collision-precision","get-target-attribute","new-heading","num-obstacles","set-target-attribute","speed","target-agent","target-attribute-value","trace-path?","two-balls?"
-"-8","8","-8","8","0","nobody","2","""NEITHER""","0","1000","64","(anonymous reporter: [ -> 0 ])","0","1","(anonymous command: [ -> ])","0.05","nobody","""""","true","false"
+"-8","8","-8","8","0","nobody","2","""NEITHER""","0","1000","64","(arrow reporter: [ -> 0 ])","0","1","(arrow command: [ -> ])","0.05","nobody","""""","true","false"
 
 "TURTLES"
 "who","color","heading","xcor","ycor","shape","label","label-color","breed","hidden?","size","pen-size","pen-mode"
